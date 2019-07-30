@@ -1,0 +1,6 @@
+/tmp
+-----atom-1.23.1-DavidS.sock=
+-----Atom-Crashes/
+-----systemd-private-4dc9b0387b27430f92a606a03c720293-chronyd.service-5SxOJV/-[error-opening-dir]
+-----systemd-private-4dc9b0387b27430f92a606a03c720293-colord.service-gvCd9S/-[error-opening-dir]
+-----systemd-private-4dc9b0387b27430f92a606a03c720293-rtkit-daemon.service-esNWO6/-[error-opening-dir]
